@@ -1,7 +1,7 @@
 # EserciziJavascript 2602
 
-## MODALITA DI SVOLGIMENTO
-Gli esercizi 1, 2 sono da svolgere carta e penna, la consegna deve essere effettuata tramite foto o scannerizzazione del o dei fogli prodotti per gli esercizi.
+## NOTE DI SVOLGIMENTO
+le funzioni di callback degli esercizi 3, 4, 5, 7 possono limitarsi a ricevere in input solamente l'elemento corrente dell'array e l'indice dell'elemento corrente dell'array
 
 ### ESERCIZI
 
