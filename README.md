@@ -30,3 +30,7 @@ Gli esercizi 1, 2 sono da svolgere carta e penna, la consegna deve essere effett
 5. Scrivere nel file `every.js` le funzioni `everyBase` e `everyReduce` che presi in input un array e una funzione di callback ri-producano il comporamento dell metodo `Array.every` di Javascript
    - la versione `everyBase` deve essere implementata in modo imperativo "Come è fatta?"
    - la versione `everyReduce` deve implementare la funzione utilizzando il metodo `Array.reduce`
+   
+6. Svolgere nel file `list.js` l'esercizio 3 del capitolo 4 di eloquentJS "A list"
+
+7. Scrivere nel file `reduce.js` la funzione `reduceBase` che preso in input un'array, una funzione di callback e un parametro opzionale di inizializzazione dell'accumulatore ri-produca il comportamento del metoto `Array.reduce`. Scrivere la funzione solamente in versione imperativa cioè "Come è fatta?"
